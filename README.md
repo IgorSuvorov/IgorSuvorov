@@ -1,4 +1,4 @@
-### Hi there! My name is Igor. Welcome!
+### Hi there!
 
 #### About me
 
