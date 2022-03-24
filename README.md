@@ -4,7 +4,7 @@
 
 * I am an aspiring software engineer from the US :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
-* I currently pursue a bachelor's degree. :office:
+* I currently pursue a bachelor's degree :office:
 * My Java expirience is 1 year :watch:
 
 -----------
