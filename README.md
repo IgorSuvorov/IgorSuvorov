@@ -3,12 +3,12 @@
 #### About me
 
 * I am an aspiring software engineer from the US :computer:
-* I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * I currently pursue a bachelor's degree :office:
-* My Java expirience is 1 year :watch:
+* My Java expirience is 1 year :coffee:
+* Perfectionist who learned how to survive in the real world :smile:
 
 -----------
-<b>Core technologies:</b>
+#### Core technologies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -25,7 +25,12 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
-You can contact me via:
+-----------
+
+#### You can contact me via:
 
 ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
 ![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)
+
+-----------
+#### My projects:
