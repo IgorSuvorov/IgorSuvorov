@@ -3,7 +3,7 @@
 #### About me
 
 * I am an aspiring software engineer from the US :computer:
-* I currently pursue a bachelor's degree :office:
+* I currently pursue a bachelor's degree :books:
 * My Java expirience is 1 year :coffee:
 * Perfectionist who learned how to survive in the real world :smile:
 
