@@ -1,6 +1,6 @@
 ### Hi, I am Igor!
 
-#### About me
+#### About me:
 
 * I am an aspiring software engineer from the US :computer:
 * I currently pursue a bachelor's degree :books:
