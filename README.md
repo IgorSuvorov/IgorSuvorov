@@ -4,7 +4,6 @@
 
 * I am an aspiring software engineer from the US :computer:
 * I currently pursue a Bachelor's degree in Computer Science :books:
-* My Java expirience is 1 year :coffee:
 * Perfectionist who learned how to survive in the real world :smile:
 
 -----------
