@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/igor-suvorov-160756223/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 -----------
-#### My projects: 
+#### My projects:
 
 -----------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSuvorov&layout=compact)](https://github.com/IgorSuvorov/github-readme-stats)
