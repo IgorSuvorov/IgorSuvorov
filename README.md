@@ -2,10 +2,9 @@
 
 #### About me:
 
-* I am an aspiring software engineer from the US :computer:
-* I currently pursue a Bachelor's degree in Computer Science :books:
+* Backend Java software engineer from the US
+* Currently pursue a bachelor's degree in computer science
 * My Java expirience is 1 year :coffee:
-* Perfectionist who learned how to survive in the real world :smile:
 
 -----------
 #### Core technologies:
