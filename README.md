@@ -1,4 +1,4 @@
-### Hi, I am Igor!
+### Igor Suvorov
 
 #### About me:
 
