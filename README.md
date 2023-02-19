@@ -18,7 +18,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
-![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![RabbitMQ](https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=)
