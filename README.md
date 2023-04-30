@@ -4,7 +4,7 @@
 
 * Backend Java software engineer from the US
 * Currently pursue a bachelor's degree in computer science
-* My Java expirience is 1 year
+* My Java experience is 1 year
 
 -----------
 #### Core technologies:
