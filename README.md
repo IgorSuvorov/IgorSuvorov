@@ -2,7 +2,7 @@
 
 #### About me:
 
-* Backend Java software engineer from the US
+* Java software engineer from the US
 * Currently pursue a bachelor's degree in computer science
 * My Java experience is 1 year
 
