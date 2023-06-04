@@ -23,15 +23,17 @@
 
 -----------
 
+#### My projects:
+
+-----------
+
 #### You can contact me via:
 
 <a href="mailto:isuvorov1@outlook.com"><img src ="https://img.shields.io/static/v1?style=for-the-badge&message=Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="/></a>
 <a href="https://www.linkedin.com/in/igor-suvorov-160756223/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 -----------
-#### My projects:
 
------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSuvorov&layout=compact)](https://github.com/IgorSuvorov/github-readme-stats)
 
