@@ -2,7 +2,7 @@
 
 #### About me:
 
-* Software Engineer in Test
+* Software Development Engineer in Test
 
 -----------
 #### Core technologies:
